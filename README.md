@@ -8,15 +8,19 @@ E-E-A-T stands for experience, expertise, authoritativeness, and trustworthiness
 
 ## What is inside
 
-- `01-what-eeat-means.md` the four letters in plain terms.
-- `02-experience-and-expertise.md` showing you have actually done it and know it.
-- `03-authoritativeness.md` recognition from beyond your own site.
-- `04-trustworthiness.md` the foundation the others rest on.
-- `05-showing-eeat-as-a-small-operator.md` doing it honestly at small scale.
+- [01-what-eeat-means.md](01-what-eeat-means.md) the four letters in plain terms.
+- [02-experience-and-expertise.md](02-experience-and-expertise.md) showing you have actually done it and know it.
+- [03-authoritativeness.md](03-authoritativeness.md) recognition from beyond your own site.
+- [04-trustworthiness.md](04-trustworthiness.md) the foundation the others rest on.
+- [05-showing-eeat-as-a-small-operator.md](05-showing-eeat-as-a-small-operator.md) doing it honestly at small scale.
 
 ## The stance
 
 This reference treats E-E-A-T as something you demonstrate by being genuinely experienced, knowledgeable, recognized, and honest, then making those facts visible. It is not a trick to fake; it is a set of real qualities to show clearly.
+
+## More
+
+Part of a catalog of single-file browser tools and plain-language references, all MIT licensed and dependency-free: [0xelitesystem.github.io](https://0xelitesystem.github.io/). Built by [elitesystem.ai](https://elitesystem.ai).
 
 ## License
 
